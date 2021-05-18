@@ -1,8 +1,8 @@
 - 👋 Hi, I’m jaeyoung shin. 
 - 👀 I’m interested in nlp, speech processing and data analytics.
 - 🌱 I’m currently learning ASR and document summarization.
-- ✨ Nothing great on the world has been accomplished without passion
-- 📫 sjy777star@gmail.com
+- ✨ I believe that nothing great on the world has been accomplished without passion
+- 📫 contact me : sjy777star@gmail.com
 
 
 <!---
