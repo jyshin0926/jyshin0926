@@ -2,6 +2,7 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python3-000000?style=flat-square&logo=Python&logoColor=blue"/></a> &nbsp
+<img src="https://img.shields.io/badge/Pytorch-F7DF1E?style=flat-square&logo=Pytorch&logoColor=orange"/></a> &nbsp
 <img src="https://img.shields.io/badge/TensorFlow-FFA500?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Keras-E34F26?style=flat-square&logo=Keras&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
