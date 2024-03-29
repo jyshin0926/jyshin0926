@@ -21,7 +21,7 @@
 
 - 👋 Hi, I’m jaeyoung shin. 
 - 👀 I’m interested in speech processing based on deep neural network.
-- 🌱 I’m currently learning speech enhancement and non-autoregressive TTS.
+- 🌱 I’m currently learning non-autoregressive TTS.
 - ✨ I believe that nothing great on the world has been accomplished without passion.
 - 📫 contact me : sjy777star@gmail.com
 
