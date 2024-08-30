@@ -20,9 +20,8 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp  -->
 
 - 👋 Hi, I’m jaeyoung shin. 
-- 👀 I’m interested in speech processing based on deep neural network.
-- 🌱 I’m currently learning non-autoregressive TTS.
-- ✨ I believe that nothing great on the world has been accomplished without passion.
+- 🌱 I’m currently interested in expressive TTS, multi-modal generative AI, and anti-spoofing.
+- ✨ I believe that nothing great in the world has been accomplished without passion.
 - 📫 contact me : sjy777star@gmail.com
 
 
