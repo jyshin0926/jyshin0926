@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp  -->
 
 - 👋 Hi, I’m jaeyoung shin. 
-- 🌱 I’m currently interested in expressive TTS, multi-modal generative AI, and anti-spoofing.
+- 🌱 I’m currently interested in expressive/multilingual TTS, multi-modal generative AI, and anti-spoofing.
 - ✨ I believe that nothing great in the world has been accomplished without passion.
 - 📫 contact me : sjy777star@gmail.com
 
